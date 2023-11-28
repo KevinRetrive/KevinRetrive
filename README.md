@@ -14,8 +14,10 @@
 
 ¡Conéctate conmigo en LinkedIn (https://www.linkedin.com/in/kevin-retrive-953a76202/) para seguir mi trayectoria!
 
-¡Saludos desde el ámbito laboral! (https://github.com/KevinRetrive/KevinRetrive/assets/147333835/3c5bc85e-635c-4080-bbe7-65a081097d4d)
-¡Y muchos éxitos!
+¡Saludos desde el ámbito laboral!
+<img src="https://github.com/KevinRetrive/KevinRetrive/assets/147333835/3c5bc85e-635c-4080-bbe7-65a081097d4d" alt="Imagen de Presentación">
+
+¡Les deseo muchos éxitos!
 
 
 <!--
