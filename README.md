@@ -2,7 +2,7 @@
 
 # Bienvenido a mi perfil de GitHub
 
-¡Hola! Soy Kevin Retrive, un ingeniero químico de 26 años. Actualmente me estoy desarrollando como profesional en ALUAR, y a su vez continuo reforzando mis conocimientos, inclinandome hacia la programación, inicie con Python a mediados de 2023, siguiendo con capacitaciones de Git & GitHub, con la idea de poder ir sumando y ampliando las bases para poder ingresar en este nuevo mundo. 
+¡Hola! Soy Kevin Retrive, un ingeniero químico de 26 años. Actualmente me estoy desarrollando como profesional en ALUAR, y a su vez continuo reforzando mis conocimientos, inclinandome hacia la programación, inicie con Python a mediados de 2023, siguiendo con capacitaciones de Git & GitHub gracias al reconocido MoureDev y sus cursos gratuitos (https://github.com/mouredev/hello-git), todo esto con la idea de poder ir sumando y ampliando las bases para poder ingresar en este nuevo mundo. 
 
 ## Sobre mí
 
