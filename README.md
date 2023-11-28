@@ -14,7 +14,9 @@
 
 ¡Conéctate conmigo en LinkedIn (https://www.linkedin.com/in/kevin-retrive-953a76202/) para seguir mi trayectoria!
 
-![Imagen de Presentación](enlace_a_tu_imagen_de_presentacion.jpg)
+¡Saludos desde el ámbito laboral! (https://github.com/KevinRetrive/KevinRetrive/assets/147333835/3c5bc85e-635c-4080-bbe7-65a081097d4d)
+¡Y muchos éxitos!
+
 
 <!--
 **KevinRetrive/KevinRetrive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
