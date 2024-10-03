@@ -2,22 +2,26 @@
 
 # Bienvenido a mi perfil de GitHub
 
-¡Hola! Soy Kevin Retrive, un ingeniero químico de 26 años. Actualmente me estoy desarrollando como profesional en ALUAR, y a su vez continuo reforzando mis conocimientos, inclinandome hacia la programación, inicie con Python con el reconocido SoyDalto y sus cursos (https://github.com/soydalto/Curso_De_Python) a mediados de 2023, luego continué viendo POO, siguiendo con capacitaciones de Git & GitHub gracias al reconocido MoureDev y sus cursos gratuitos (https://github.com/mouredev/hello-git), todo esto con la idea de poder ir sumando y ampliando las bases para poder ingresar en este nuevo mundo. 
+Hola! Mi nombre es Kevin. Me gradué en febrero de 2023 con el título de ingeniero químico y me encuentro trabajando en una reconocida Smelter: ALUAR (planta de producción de aluminio), ubicada en Argentina. A lo largo de mi carrera profesional, descubrí el campo de la programación y la inteligencia artificial, y su amplio campo de aplicación. Decidí, entonces, extender mis conocimientos a través de diversos cursos que me permitan aprender sobre este tema y llevarlo a la práctica. Hasta hoy, he completado cursos de varios temas como Python[1], SQL, SAP ABAP, Pandas, NumPy, TensorFlow, Keras y Matplotlib, entre otros[2]. Lo que más me apasiona hasta ahora son las redes neuronales, así que en mi tiempo libre estoy cursando una maestría en Deep Learning y trabajando en proyectos prácticos para entrenar las neuronas (literalmente).
+
+Además durante mi rutina laboral me desempeño en la gestión de múltiples proyectos en una amplia gama de temas bajo supervisión, lo que me ha permitido desarrollar un alto nivel de multitasking y fomentar el trabajo en equipo. También busco mantener un equilibrio en mi vida mediante la actividad física, y soy miembro de un equipo de basket de alta competencia, deporte que hago desde la infancia, lo que me ha enseñado sobre la disciplina, perseverancia y la colaboración.
+
+Creo firmemente que los datos son una herramienta poderosa para simular la realidad y entender cómo resolver problemas, lo que nos permite tomar decisiones óptimas. Por esta razón, mi objetivo es seguir ampliando mis habilidades y aportar valor profesionalmente en una empresa, sin descuidar mi compromiso por contribuir en minimizar el impacto contra el medio ambiente y la seguridad.
+
+[1](https://github.com/soydalto/Curso_De_Python)
+[2](https://github.com/mouredev/hello-git)
 
 ## Sobre mí
 
 - 👨‍🔬 Ingeniero Químico en ALUAR (https://www.aluar.com.ar/), en el área de Investigación y Desarrollo.
-- 🚀 Especializado en liderazgo de influencia y gestión de proyectos.
+- 🚀 Máster en deep Learning.
 - 🧪 Apasionado por la innovación, tecnología y trabajo en equipo a la hora de hallar soluciones eficientes.
 
 ## Contacto
 
 ¡Conéctate conmigo en LinkedIn (https://www.linkedin.com/in/kevin-retrive-953a76202/) para seguir mi trayectoria!
-
-¡Saludos desde el ámbito laboral!
-<img src="https://github.com/KevinRetrive/KevinRetrive/assets/147333835/3c5bc85e-635c-4080-bbe7-65a081097d4d" alt="Imagen de Presentación">
-
 ¡Les deseo muchos éxitos!
+¡Saludos!
 
 
 <!--
